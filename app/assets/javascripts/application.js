@@ -14,7 +14,7 @@
 //= require jquery_ujs
 //= require ckeditor-jquery
 //= require_tree .
-//= require turbolinks
+
 /* global $ */
 $('.ckeditor').ckeditor({
   // optional config
