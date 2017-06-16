@@ -2,8 +2,28 @@
 
 one:
   title: MyString
+  body: 
+  g: MyString
+  scaffold: MyString
+  post: MyString
+  title: MyString
+  body: 
+  g: MyString
+  scaffold: MyString
+  post: MyString
+  title: MyString
   body: MyText
 
 two:
+  title: MyString
+  body: 
+  g: MyString
+  scaffold: MyString
+  post: MyString
+  title: MyString
+  body: 
+  g: MyString
+  scaffold: MyString
+  post: MyString
   title: MyString
   body: MyText
